@@ -1,6 +1,8 @@
 # mayaStuff
 
-supports:
+Group members: Yifan You
+
+mayaStuff is a command line script that supports:
 1. batch renaming objects in multiple maya scene files
 2. batch exporting to fbx format for all objects in multiple maya scene files
 3. checking meshes for overlapping uv, empty groups, non-manifold geometry, name duplicates. 
